@@ -1,3 +1,20 @@
+Metadata-Version: 2.4
+Name: devforge
+Version: 1.1.1
+Summary: A fast CLI tool to scaffold Python projects
+Home-page: https://github.com/hythm/devforge
+Author: Hythm Saad
+Author-email: Hythm Saad <hythm@example.com>
+License-Expression: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: typer>=0.9
+Dynamic: author
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-python
+
 🧱 DevForge
 
 DevForge is a lightweight command-line tool that helps developers quickly scaffold custom project hierarchies — ideal for bootstrapping new apps, APIs, or full-stack projects with your own structure.
