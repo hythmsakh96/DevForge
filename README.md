@@ -1,4 +1,5 @@
-```🧱 DevForge
+```
+🧱 DevForge
 
 Generate full project structures in seconds.
 DevForge is a lightweight CLI tool that helps developers quickly scaffold custom project hierarchies — ideal for bootstrapping new apps, APIs, or full-stack projects with your own structure.
