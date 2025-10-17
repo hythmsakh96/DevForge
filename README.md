@@ -73,7 +73,7 @@ DevForge helps you focus on building, not boilerplate.
 If you find **DevForge** helpful, consider supporting the project ❤️  
 Your donations help me keep improving it and adding new features.
 
-[👉 Support me on Ko-fi](https://ko-fi.com/hythmsaadkhalifa)
+👉 Support me on Ko-fi :https://ko-fi.com/hythmsaadkhalifa)
 
 🪪 License
 
