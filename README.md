@@ -1,4 +1,4 @@
-🧱 DevForge
+'''🧱 DevForge
 
 Generate full project structures in seconds.
 DevForge is a lightweight CLI tool that helps developers quickly scaffold custom project hierarchies — ideal for bootstrapping new apps, APIs, or full-stack projects with your own structure.
@@ -41,7 +41,7 @@ Your new project will be generated instantly with a clean structure.
 
 Example structure:
 
-"myproject/
+myproject/
 ├── backend/
 │   ├── main.py
 │   ├── routes/
@@ -49,7 +49,7 @@ Example structure:
 ├── frontend/
 │   ├── src/
 │   └── App.jsx
-└── README.md"
+└── README.md
 
 🧩 Coming Soon
 
@@ -74,3 +74,4 @@ If DevForge saves you time, you can support its development here ❤️
 🪪 License
 
 MIT License © 2025 Hythm
+'''
