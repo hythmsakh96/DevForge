@@ -41,7 +41,7 @@ Your new project will be generated instantly with a clean structure.
 
 Example structure:
 
-myproject/
+"myproject/
 ├── backend/
 │   ├── main.py
 │   ├── routes/
@@ -49,7 +49,7 @@ myproject/
 ├── frontend/
 │   ├── src/
 │   └── App.jsx
-└── README.md
+└── README.md"
 
 🧩 Coming Soon
 
