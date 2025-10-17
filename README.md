@@ -67,11 +67,15 @@ myproject/
 Because setting up a new project shouldn’t take longer than coding it.
 DevForge helps you focus on building, not boilerplate.
 
-💖 Support DevForge
+---
 
-If DevForge saved you time or boosted your workflow, consider supporting its development:
-☕ [Buy me a coffee](https://ko-fi.com/hythmsaadkhalifa)
- – every tip helps keep the project growing!
+## ☕ Support DevForge
+
+If you find **DevForge** helpful, consider supporting the project ❤️  
+Your donation help me keep improving it and adding new features.
+
+[![Support me on Ko-fi](https://cdn.ko-fi.com/cdn/kofi3.png?v=3)](https://ko-fi.com/hythmsaadkhalifa)
+
 
 🪪 License
 
