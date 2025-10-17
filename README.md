@@ -1,21 +1,22 @@
 🧱 DevForge
 
-DevForge is a lightweight command-line tool that helps developers quickly scaffold custom project hierarchies — ideal for bootstrapping new apps, APIs, or full-stack projects with your own structure.
+Generate full project structures in seconds.
+DevForge is a lightweight CLI tool that helps developers quickly scaffold custom project hierarchies — ideal for bootstrapping new apps, APIs, or full-stack projects with your own structure.
 
 You define the structure, and DevForge handles the rest.
-Templates and advanced automation features will be added in future releases.
+Templates and AI-assisted automation are coming soon.
 
 🚀 Features
 
-⚙️ Custom hierarchy generation – create your own directory & file structure interactively or via configuration.
+⚙️ Custom hierarchy generation – Create any directory & file structure interactively or via text.
 
-📂 Recursive project creation – supports multi-level directories.
+📂 Recursive project creation – Supports deeply nested folder trees.
 
-🧾 Automatic README + main file setup – starts your project with key files in place.
+🧾 Automatic README & main file setup – Bootstraps your project with essential files.
 
-🪶 Lightweight and dependency-free – pure Python, no external packages required.
+🪶 Lightweight – Pure Python. No dependencies.
 
-🧠 Future-ready – template-based scaffolding and AI integration are planned for later versions.
+🧠 Future-ready – Templates, AI integration, and config-based setups coming soon.
 
 📦 Installation
 pip install devforge
@@ -27,18 +28,18 @@ Run the CLI to create a new project:
 devforge create myproject
 
 
-Use the --debug flag to see detailed logs:
+Or enable debug logs:
 
 devforge create myproject --debug
 
 
-Your new project will be created under the current directory with a clean, organized structure.
+Your new project will be generated instantly with a clean structure.
 
 🧰 Example Output
 [INFO] ✅ Project created at: D:\MoneyProjects\TestArea\myproject
 
 
-Project structure example:
+Example structure:
 
 myproject/
 ├── backend/
@@ -64,6 +65,11 @@ myproject/
 
 Because setting up a new project shouldn’t take longer than coding it.
 DevForge helps you focus on building, not boilerplate.
+
+☕ Support
+
+If DevForge saves you time, you can support its development here ❤️
+👉 Buy me a coffee
 
 🪪 License
 
