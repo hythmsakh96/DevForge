@@ -70,7 +70,7 @@ DevForge helps you focus on building, not boilerplate.
 💖 Support DevForge
 
 If DevForge saved you time or boosted your workflow, consider supporting its development:
-☕ [Buy me a coffee]([url](https://ko-fi.com/hythmsaadkhalifa))
+☕ [[Buy me a coffee](https://ko-fi.com/hythmsaadkhalifa)]
  – every tip helps keep the project growing!
 
 🪪 License
